@@ -3,7 +3,7 @@ console.log("Hello World");
 
 
 const express = require('express') // made an object that contains express
-const app = express() // now we csn use app.abc
+const app = express() // now we can use app.abc
 const port = 2000 // set the port our server will be listeing onto
 
 const user = {
